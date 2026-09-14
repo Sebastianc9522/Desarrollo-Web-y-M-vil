@@ -1,0 +1,1 @@
+Hay que añadir el codigo de "main (Adicion).py" al final del archivo "main.py". Luego hay que correr el codigo para conseguir los resultados visibles en las imagenes.
